@@ -37,6 +37,8 @@ The training program is divided into several modules. Each module covers differe
 
 - **Chapter 1: The Science of Flight: How Planes and Drones Defy Gravity**
   - Fundamentals of flight, basic aerodynamics, and drones.
+- **Workshop 1: Introduction of Conception using fusion 360**
+  - Fundamentals of fusion 360.
 
 
 > **Note**: Detailed content and exercises for each module are in their respective directories. Check the `/modules` folder for resources and materials.
