@@ -39,6 +39,8 @@ The training program is divided into several modules. Each module covers differe
   - Fundamentals of flight, basic aerodynamics, and drones.
 - **Chapter 2: The Science of Flight: Unlocking Fusion 360's Potential! ✨**
   - Fundamentals of flight, basic technical drawing, and conception.
+- **Chapter 3: Technologies and Properties of Aerospace Materials.✨**
+  - Introduction to aerospace materials.
 - **Workshop 1: Introduction of Conception using fusion 360**
   - Fundamentals of fusion 360.
 
