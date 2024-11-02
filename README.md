@@ -45,7 +45,7 @@ The training program is divided into several modules. Each module covers differe
   - Fundamentals of fusion 360.
 
 
-> **Note**: Detailed content and exercises for each module are in their respective directories. Check the `/modules` folder for resources and materials.
+> **Note**: Detailed content for each module are in their respective directories. Check the `/formation 1 ,2 and 3` & `/workshop1` folder for resources and materials.
 
 ---
 
