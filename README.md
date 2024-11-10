@@ -41,7 +41,7 @@ The training program is divided into several modules. Each module covers differe
   - Fundamentals of flight, basic technical drawing, and conception.
 - **Chapter 3: Technologies and Properties of Aerospace Materials.✨**
   - Introduction to aerospace materials.
-  - - **Chapter 4: Conception.✨**
+- **Chapter 4: Conception.✨**
   - Fundamentals of basic technical drawing, and conception.
 - **Workshop 1: Introduction of Conception using fusion 360**
   - Fundamentals of fusion 360.
